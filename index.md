@@ -1,3 +1,9 @@
-# Welcome to my blog
+# Welcome to Tony Learns Github Pages
 
-I'm glad you are here. I plan to talk about ...
+This will be a learning experience for the both of us!
+
+## About Me
+
+Old and gray, but still young at heart.
+
+
